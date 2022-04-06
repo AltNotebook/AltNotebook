@@ -30,4 +30,12 @@ Default Keyboard shortcuts
 
 3: Compare it to Jupyter
 
+A single editor for many languages
+Supports multiple python file types
+Execution time
+Cell debugging
+Split editors
+Git integration(you can see a timeline view for your commit history)
+Intellisense (helps to show Documentation within the code)
+Variable peeking (see how a variable is defined without scroll through code)
 
