@@ -1,11 +1,27 @@
 1: Describe the tech, who built it, what its key features are
-
-
-
-
+Visual Studio Code was first announced on April 29, 2015, by Microsoft.
+November 18, 2015, the source of Visual Studio Code was released and was made available.
+Visual Studio Code is a source-code editor that can be used with a variety of programming languages
+Features  debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git. 
+Users can change the theme, keyboard shortcuts, preferences, and install extensions that add additional functionality.
 
 2: Explain the special features that the creators stress
 
+## Multi-cursor 
+## Search features 
+## Code navigation
+## Faster code editing
+
+Command Line
+Command Palette
+Git Integration
+Change language mode
+Customization
+Zen Mode
+Split view
+Status Bar
+Debugging
+Default Keyboard shortcuts
 
 
 
